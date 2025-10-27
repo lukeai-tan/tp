@@ -1,6 +1,13 @@
-package internity.commands;
+package internity.logic;
 
-import internity.cli.ArgumentParser;
+import internity.commands.AddCommand;
+import internity.commands.Command;
+import internity.commands.DashboardCommand;
+import internity.commands.DeleteCommand;
+import internity.commands.ExitCommand;
+import internity.commands.ListCommand;
+import internity.commands.UpdateCommand;
+import internity.commands.UsernameCommand;
 import internity.core.InternityException;
 
 /**

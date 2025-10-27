@@ -1,9 +1,10 @@
-package internity.core;
+package internity.logic;
 
 import java.util.Scanner;
 import java.util.logging.Logger;
 
-import internity.cli.CommandParser;
+import internity.core.InternshipList;
+import internity.core.Storage;
 import internity.commands.Command;
 import internity.ui.Ui;
 

@@ -1,9 +1,8 @@
-package internity.cli;
+package internity.logic;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import internity.commands.CommandFactory;
 import internity.commands.Command;
 import internity.core.InternityException;
 

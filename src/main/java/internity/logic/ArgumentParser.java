@@ -1,4 +1,4 @@
-package internity.cli;
+package internity.logic;
 
 import java.util.logging.Logger;
 

@@ -2,7 +2,7 @@ package internity;
 
 import java.util.logging.Logger;
 
-import internity.core.InternityManager;
+import internity.logic.InternityManager;
 import internity.utils.InternityLogger;
 
 /**

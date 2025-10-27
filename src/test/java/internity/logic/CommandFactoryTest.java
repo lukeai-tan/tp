@@ -1,9 +1,18 @@
-package internity.commands;
+package internity.logic;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertInstanceOf;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+import internity.commands.AddCommand;
+import internity.commands.Command;
+import internity.commands.DashboardCommand;
+import internity.commands.DeleteCommand;
+import internity.commands.ExitCommand;
+import internity.commands.FindCommand;
+import internity.commands.ListCommand;
+import internity.commands.UpdateCommand;
+import internity.commands.UsernameCommand;
 import internity.core.InternityException;
 import org.junit.jupiter.api.Test;
 
